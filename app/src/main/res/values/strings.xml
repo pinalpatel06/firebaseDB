@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToDoTaskWithFirebase</string>
+    <string name="no_items">No Items</string>
+    <string name="cataroty">Catagory title</string>
+    <string name="task">Task Detail</string>
+    <string name="logIn">LogIn</string>
+    <string name="create_user"><u>New User</u></string>
+    <string name="logout">Logout</string>
+</resources>
